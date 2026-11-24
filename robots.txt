@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sita.dz/sitemap.xml
